@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:رائد حسن خليل نجيب
+ORG:مؤسسة رائد خليل للعصار والمواد الغذائية
+TEL;TYPE=work,voice:0798520131
+ADR;TYPE=work:;;[ضع عنوان المؤسسة هنا];;;;
+EMAIL;TYPE=internet:your-email@example.com
+NOTE:الرمز الضريبي: 13795104
+END:VCARD
